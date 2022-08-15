@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.114.232.118:8081/repository/sample-snapshots/</url>
+		    <url>http://13.114.232.118:8081/repository/sample-snapshots/<https://github.com/tarunpandu/myweb.git>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.114.232.118:8081/repository/sample-releases/</>
+		    <url>http://13.114.232.118:8081/repository/sample-releases/<https://github.com/tarunpandu/myweb.git>
 		</repository>
   	</distributionManagement>
 	
